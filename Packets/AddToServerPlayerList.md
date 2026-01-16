@@ -1,4 +1,7 @@
+# AddToServerPlayerList
+
 Packet ID: 224
+Bound: Server -> Client
 ## Description
 
 Packet used to add multiple players to the player list.
