@@ -6,7 +6,7 @@ This wiki is currently in development & maintained by xEcho1337.
 
 Contributions are welcome through pull requests.
 ## Tree
-- [Protocol Structure](Protocol-Structure)
+- [Protocol Structure](Protocol-Structure.md)
 - Packets
-	- [Connect](Packets/Connect)
-	- [AddToServerPlayerList](Packets/AddToServerPlayerList)
+	- [Connect](Packets/Connect.md)
+	- [AddToServerPlayerList](Packets/AddToServerPlayerList.md)
